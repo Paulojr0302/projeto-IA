@@ -1,0 +1,135 @@
+body {
+    text-align: center;
+    color: white;
+    background-color: #02111f;
+    font-family: sans-serif;
+    border: 0;
+    margin: 0 auto 0 auto;
+}
+
+header {
+    padding-top: 20px;
+    background-color: #04233F;
+    text-align: center;
+    color: #1190ff;
+    font-family: sans-serif;
+    border: 10px 0 0 0;
+    margin: 0 auto 0 auto;
+}
+
+.links {
+    color: #6495ED;
+    background-color: #334e76;
+    text-align: center;
+    padding: 12px;
+    margin: 0 auto 0 auto;
+    border: 0;
+    height: auto;
+}
+
+.barralinks {
+    text-decoration: none;
+    margin: 20px;
+    border: 0;
+    color:#81c4ff;
+}
+
+.barralinks:hover{
+    color: gray;
+}
+
+.sobre {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #063254;
+    text-align: center;
+    margin: 60px 500px 0 500px;
+    color:#81c4ff;
+    border-radius: 10px;
+    padding: 15px 0 15px 0;
+}
+
+.lab {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #063254;
+    text-align: center;
+    margin: 60px 500px 0 500px;
+    color:#81c4ff;
+    border-radius: 10px;
+    padding: 15px 0 15px 0;
+}
+
+.colab {
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #063254;
+    text-align: center;
+    margin: 60px 500px 0 500px;
+    color:#81c4ff;
+    border-radius: 10px;
+    padding: 15px 0 15px 0;
+}
+
+.final {
+    background-color: #1d405c;
+    text-align: center;
+    margin: 50px 0 0 0;
+    height: 200px;
+    padding-top: 20px;
+}
+
+.botao {
+    text-decoration: none;
+    background-color: rgb(9, 102, 225);
+    color: rgb(224, 224, 224);
+    min-width: 200px;
+    padding: 10px 30px;
+    border-radius: 10px;
+    margin-top: 50px;
+}
+
+.botao:hover{
+    background-color: rgb(53, 123, 214);
+}
+
+footer{
+    text-align: center;
+    padding: 80px;
+    background-color: #02111f;
+    color: gray;
+}
+
+strong{
+    text-decoration: none;
+    font-style: normal;
+    color: white;
+}
+
+.conteiner-servicos{
+    font-size: 1.1em;
+    padding: 60px;
+    padding-top: 10px;
+    overflow: auto;
+}
+
+li{
+    margin-left: 30%;
+    text-align: left;
+    list-style-position: inside;
+    color: white;
+}
+
+.conteiner-contato-1 {
+    color: #1190ff;
+}
+
+.conteiner-contato{
+    background-color: #063254;
+    padding: 12px;
+    margin: 20px 500px 0 500px;
+    border: solid #052035;
+    border-radius: 10px;
+}
+
+small {
+    font-size: 10px;
+}
+
